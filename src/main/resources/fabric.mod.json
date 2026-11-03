@@ -1,0 +1,19 @@
+{
+	"schemaVersion": 1,
+	"id": "palettepicker",
+	"version": "${version}",
+	"name": "Palette Picker",
+	"description": "Press a key, pick a base block and a theme, and get a building or path palette that goes with it.",
+	"authors": ["Jordan"],
+	"icon": "assets/palettepicker/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["dev.jordan.palettepicker.client.PalettePickerClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

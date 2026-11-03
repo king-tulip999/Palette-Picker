@@ -1,0 +1,297 @@
+# id	side	top	noise_x1000	tags	variants(stem:t=stairs,h=slab,w=wall)
+acacia_leaves	#2a690d	#2a690d	59	leaf	
+acacia_log	#676157	#975937	56	log wood	
+acacia_planks	#a85a32	#a85a32	51	plank wood	acacia:th
+amethyst_block	#8662bf	#8662bf	122	magic odd rough	
+andesite	#888889	#888889	63	stone	andesite:thw
+azalea_leaves	#5a732c	#5a732c	88	leaf	
+bamboo_block	#7f903a	#8b8e3e	93	log wood	bamboo:th
+bamboo_mosaic	#beaa4e	#beaa4e	94	plank wood	bamboo_mosaic:th
+bamboo_planks	#c1ad50	#c1ad50	98	plank wood	bamboo:th
+barrel	#6c5132	#87653a	109	plank utility wood	
+basalt	#49494e	#515156	63	stone	
+birch_leaves	#41542b	#41542b	51	leaf	
+birch_log	#d9d7d2	#c1b387	210	log white wood	
+birch_planks	#c0af79	#c0af79	80	plank wood	birch:th
+black_concrete	#080a0f	#080a0f	4	concrete smooth	black_concrete:th
+black_concrete_powder	#191b20	#191b20	31	concrete rough	
+black_glazed_terracotta	#441e20	#441e20	74	glazed odd terracotta tile	
+black_stained_glass	#191919	#191919	0	glass odd smooth	
+black_terracotta	#251710	#251710	4	smooth terracotta tile	
+black_wool	#15151a	#15151a	30	smooth wool	black_wool:th
+blackstone	#2a2429	#2a242a	62	stone	blackstone:thw
+blue_concrete	#2d2f8f	#2d2f8f	2	colored concrete smooth	blue_concrete:th
+blue_concrete_powder	#4649a7	#4649a7	25	concrete rough	
+blue_glazed_terracotta	#2f418b	#2f418b	128	colored glazed odd rough terracotta tile	
+blue_stained_glass	#334cb2	#334cb2	0	colored glass odd smooth	
+blue_terracotta	#4a3c5b	#4a3c5b	6	smooth terracotta tile	
+blue_wool	#35399d	#35399d	29	colored smooth wool	blue_wool:th
+bone_block	#e5e2d0	#d2ceb3	18	plaster smooth	
+bookshelf	#755f3c	#a2834f	169	plank utility wood	
+brain_coral_block	#cf5b9f	#cf5b9f	96	colored odd rough	
+bricks	#976253	#976253	88	brick	brick:thw
+brown_concrete	#603c20	#603c20	2	colored concrete smooth	brown_concrete:th
+brown_concrete_powder	#7e5536	#7e5536	29	concrete rough	
+brown_glazed_terracotta	#786a56	#786a56	109	glazed odd rough terracotta tile	
+brown_stained_glass	#664c33	#664c33	0	glass odd smooth	
+brown_terracotta	#4d3324	#4d3324	6	smooth terracotta tile	
+brown_wool	#724829	#724829	31	colored smooth wool	brown_wool:th
+bubble_coral_block	#a51aa2	#a51aa2	57	colored odd	
+calcite	#dfe0dd	#dfe0dd	75	plaster stone white	
+cherry_leaves	#e5adc2	#e5adc2	123	flower leaf magic rough	
+cherry_log	#37212c	#b98d89	36	log magic wood	
+cherry_planks	#e3b3ad	#e3b3ad	70	magic plank wood	cherry:th
+chiseled_cinnabar	#933737	#933737	78	colored decor smooth stone	
+chiseled_copper	#b8654a	#b8654a	80	decor metal smooth	
+chiseled_deepslate	#363637	#363637	62	decor deepslate smooth stone	
+chiseled_nether_bricks	#2e171b	#2e171b	37	brick decor odd smooth	
+chiseled_polished_blackstone	#363139	#363139	76	decor smooth stone	
+chiseled_quartz_block	#e8e3da	#e8e3d9	29	decor plaster quartz smooth white	
+chiseled_red_sandstone	#b7611c	#b5621f	59	colored decor sand smooth stone	
+chiseled_resin_bricks	#c95419	#c95419	113	brick colored decor odd smooth	
+chiseled_sandstone	#d8cb9b	#e0d6aa	73	decor sand smooth stone	
+chiseled_stone_bricks	#787778	#787778	87	brick decor smooth stone	
+chiseled_sulfur	#bbaa5b	#bbaa5b	113	decor smooth stone	
+chiseled_tuff	#595e57	#5e635b	77	decor smooth stone	
+chiseled_tuff_bricks	#636760	#6f726b	77	brick decor smooth stone	
+cinnabar	#98534e	#98534e	52	stone	cinnabar:thw
+cinnabar_bricks	#943836	#943836	66	brick colored stone	cinnabar_brick:thw
+clay	#a1a6b3	#a1a6b3	26	earth smooth	
+coal_block	#101010	#101010	33	odd precious smooth	
+coarse_dirt	#77563b	#77563b	100	earth path rough	
+cobbled_deepslate	#4d4d51	#4d4d51	82	deepslate rough stone	cobbled_deepslate:thw
+cobblestone	#807f80	#807f80	115	rough stone	cobblestone:thw
+copper_block	#c06c50	#c06c50	71	colored metal	
+cracked_deepslate_bricks	#414141	#414141	89	brick deepslate rough stone	
+cracked_deepslate_tiles	#353535	#353535	58	deepslate rough stone tile	
+cracked_nether_bricks	#281418	#281418	33	brick odd rough	
+cracked_polished_blackstone_bricks	#2c262c	#2c262c	71	brick rough smooth stone	
+cracked_stone_bricks	#767676	#767676	73	brick rough stone	
+crimson_nylium	#6b1b1b	#831f1f	67	colored odd	
+crimson_planks	#653147	#653147	55	odd plank wood	crimson:th
+crimson_stem	#5d1a1e	#713246	34	log odd wood	
+crying_obsidian	#210a3c	#210a3c	63	colored odd	
+cut_copper	#bf6b51	#bf6b51	77	colored metal smooth	cut_copper:th
+cut_red_sandstone	#bd6620	#b5621f	48	colored sand smooth stone	cut_red_sandstone:h
+cut_sandstone	#dacea0	#e0d6aa	60	sand smooth stone	cut_sandstone:h
+cyan_concrete	#157788	#157788	3	colored concrete sea smooth	cyan_concrete:th
+cyan_concrete_powder	#25949d	#25949d	36	colored concrete rough	
+cyan_glazed_terracotta	#34777d	#34777d	169	glazed odd rough terracotta tile	
+cyan_stained_glass	#4c7f99	#4c7f99	0	glass odd smooth	
+cyan_terracotta	#575b5b	#575b5b	8	sea smooth terracotta tile	
+cyan_wool	#158a91	#158a91	32	colored smooth wool	cyan_wool:th
+dark_oak_leaves	#2a6b0e	#2a6b0e	66	leaf	
+dark_oak_log	#3c2f1a	#442d16	36	log wood	
+dark_oak_planks	#432b14	#432b14	40	plank wood	dark_oak:th
+dark_prismarine	#345c4c	#345c4c	76	magic sea stone	dark_prismarine:th
+dead_brain_coral_block	#7c7672	#7c7672	85	decor odd stone	
+dead_bubble_coral_block	#847c77	#847c77	75	decor odd stone	
+dead_fire_coral_block	#847c78	#847c78	75	decor odd stone	
+dead_horn_coral_block	#867e7a	#867e7a	92	decor odd rough stone	
+dead_tube_coral_block	#827b78	#827b78	82	decor odd stone	
+deepslate	#505053	#575759	83	deepslate stone	
+deepslate_bricks	#474747	#474747	86	brick deepslate stone	deepslate_brick:thw
+deepslate_tiles	#373737	#373737	58	deepslate stone tile	deepslate_tile:thw
+diamond_block	#62ede4	#62ede4	97	colored odd precious rough	
+diorite	#bdbcbd	#bdbcbd	136	rough stone	diorite:thw
+dirt	#866043	#866043	90	earth	
+dirt_path	#896543	#947a41	90	earth path	
+dried_kelp_block	#26311e	#323b27	100	odd rough	
+dripstone_block	#866c5d	#866c5d	79	stone	
+emerald_block	#2acb58	#2acb58	119	colored odd precious rough	
+end_stone	#dcdf9e	#dcdf9e	70	colored magic odd	
+end_stone_bricks	#dae0a2	#dae0a2	94	brick colored magic odd rough stone	end_stone_brick:thw
+exposed_chiseled_copper	#9b7765	#9b7765	65	metal smooth	
+exposed_copper	#a17e68	#a17e68	52	metal	
+exposed_cut_copper	#9b7a65	#9b7a65	61	metal	exposed_cut_copper:th
+fire_coral_block	#a4232f	#a4232f	51	colored odd	
+flowering_azalea_leaves	#646f3d	#646f3d	90	flower leaf	
+gilded_blackstone	#382b26	#382b26	124	odd rough stone	
+glass	#b0d6db	#b0d6db	89	glass	
+glowstone	#ac8354	#ac8354	248	light rough	
+gold_block	#f6d03e	#f6d03e	96	colored metal rough	
+granite	#956756	#956756	83	stone	granite:thw
+gravel	#847f7f	#847f7f	67	earth path rough	
+gray_concrete	#373a3e	#373a3e	2	concrete smooth	gray_concrete:th
+gray_concrete_powder	#4d5155	#4d5155	23	concrete rough	
+gray_glazed_terracotta	#535a5e	#535a5e	130	glazed odd rough terracotta tile	
+gray_stained_glass	#4c4c4c	#4c4c4c	0	glass odd smooth	
+gray_terracotta	#3a2a24	#3a2a24	4	smooth terracotta tile	
+gray_wool	#3f4448	#3f4448	24	smooth wool	gray_wool:th
+green_concrete	#495b24	#495b24	2	concrete smooth	green_concrete:th
+green_concrete_powder	#61772d	#61772d	29	colored concrete rough	
+green_glazed_terracotta	#758e43	#758e43	164	glazed odd rough terracotta tile	
+green_stained_glass	#667f33	#667f33	0	glass odd smooth	
+green_terracotta	#4c532a	#4c532a	5	smooth terracotta tile	
+green_wool	#556e1c	#556e1c	37	colored smooth wool	green_wool:th
+hay_block	#a68926	#a68b0c	106	colored farm rough	
+horn_coral_block	#d8c842	#d8c842	95	colored odd rough	
+iron_block	#dcdcdc	#dcdcdc	70	metal plaster white	
+jack_o_lantern	#c47318	#c67718	112	colored light rough	
+jungle_leaves	#2c6d0d	#2c6d0d	57	leaf	
+jungle_log	#554419	#966d47	51	log wood	
+jungle_planks	#a07351	#a07351	93	plank wood	jungle:th
+lapis_block	#1f438c	#1f438c	38	colored odd precious smooth	
+light_blue_concrete	#2489c7	#2489c7	3	colored concrete sea smooth	light_blue_concrete:th
+light_blue_concrete_powder	#4ab5d5	#4ab5d5	47	colored concrete rough	
+light_blue_glazed_terracotta	#5fa5d1	#5fa5d1	247	colored glazed odd rough terracotta tile	
+light_blue_stained_glass	#6699d8	#6699d8	0	colored glass odd smooth	
+light_blue_terracotta	#716d8a	#716d8a	6	sea smooth terracotta tile	
+light_blue_wool	#3aafd9	#3aafd9	62	colored wool	light_blue_wool:th
+light_gray_concrete	#7d7d73	#7d7d73	3	concrete smooth	light_gray_concrete:th
+light_gray_concrete_powder	#9b9b94	#9b9b94	38	concrete rough	
+light_gray_glazed_terracotta	#90a6a8	#90a6a8	164	glazed odd rough terracotta tile	
+light_gray_stained_glass	#999999	#999999	0	glass odd smooth	
+light_gray_terracotta	#876b62	#876b62	6	smooth terracotta tile	
+light_gray_wool	#8e8e87	#8e8e87	38	smooth wool	light_gray_wool:th
+lime_concrete	#5ea918	#5ea918	4	colored concrete smooth	lime_concrete:th
+lime_concrete_powder	#7dbd2a	#7dbd2a	31	colored concrete rough	
+lime_glazed_terracotta	#a3c637	#a3c637	122	colored glazed odd rough terracotta tile	
+lime_stained_glass	#7fcc19	#7fcc19	0	colored glass odd smooth	
+lime_terracotta	#687635	#687635	8	smooth terracotta tile	
+lime_wool	#70b91a	#70b91a	37	colored smooth wool	lime_wool:th
+magenta_concrete	#a9309f	#a9309f	4	colored concrete smooth	magenta_concrete:th
+magenta_concrete_powder	#c154b9	#c154b9	41	colored concrete rough	
+magenta_glazed_terracotta	#d064c0	#d064c0	145	colored glazed odd rough terracotta tile	
+magenta_stained_glass	#b24cd8	#b24cd8	0	colored glass odd smooth	
+magenta_terracotta	#96586d	#96586d	9	smooth terracotta tile	
+magenta_wool	#be45b4	#be45b4	51	colored wool	magenta_wool:th
+mangrove_leaves	#4a6407	#4a6407	95	leaf rough	
+mangrove_log	#544329	#67312a	40	log wood	
+mangrove_planks	#763631	#763631	56	plank wood	mangrove:th
+moss_block	#596e2d	#596e2d	60	earth moss	
+mossy_cobblestone	#6e765f	#6e765f	90	moss rough	mossy_cobblestone:thw
+mossy_stone_bricks	#737969	#737969	69	brick moss stone	mossy_stone_brick:thw
+mud	#3c393d	#3c393d	27	earth mud smooth	
+mud_bricks	#89684f	#89684f	68	brick mud	mud_brick:thw
+muddy_mangrove_roots	#443b30	#463b2d	33	earth smooth	
+nether_bricks	#2c161a	#2c161a	32	brick odd smooth	nether_brick:thw
+nether_wart_block	#730302	#730302	35	colored odd smooth	
+netherite_block	#433d40	#433d40	60	metal odd	
+netherrack	#622626	#622626	52	odd	
+oak_leaves	#28660d	#28660d	73	leaf	
+oak_log	#6d5533	#977a49	84	log wood	
+oak_planks	#a2834f	#a2834f	97	plank wood	oak:th
+obsidian	#0f0b19	#0f0b19	56	odd	
+ochre_froglight	#f5e9b6	#fbf5ce	96	colored light magic rough	
+orange_concrete	#e06101	#e06101	3	colored concrete smooth	orange_concrete:th
+orange_concrete_powder	#e38420	#e38420	40	colored concrete rough	
+orange_glazed_terracotta	#9b935c	#9b935c	123	glazed odd rough terracotta tile	
+orange_poplar_leaves	#bc5618	#bc5618	102	colored leaf rough	
+orange_stained_glass	#d87f33	#d87f33	0	colored glass odd smooth	
+orange_terracotta	#a25426	#a25426	8	colored smooth terracotta tile	
+orange_wool	#f17614	#f17614	48	colored wool	orange_wool:th
+oxidized_chiseled_copper	#54a284	#54a284	98	metal smooth	
+oxidized_copper	#52a385	#52a385	85	metal	
+oxidized_cut_copper	#509a7e	#509a7e	99	metal rough	oxidized_cut_copper:th
+packed_mud	#8e6b50	#8e6b50	41	earth mud	
+pale_moss_block	#6b7069	#6b7069	70	earth moss	
+pale_oak_leaves	#757a73	#757a73	122	leaf rough	
+pale_oak_log	#584e4b	#c7bdbc	65	log wood	
+pale_oak_planks	#e4dad8	#e4dad8	94	plank white wood	pale_oak:th
+pearlescent_froglight	#ece1e5	#f6f0f0	112	light magic plaster rough white	
+pink_concrete	#d6658f	#d6658f	3	colored concrete smooth	pink_concrete:th
+pink_concrete_powder	#e599b5	#e599b5	56	colored concrete rough	
+pink_glazed_terracotta	#eb9bb6	#eb9bb6	95	colored glazed odd rough terracotta tile	
+pink_stained_glass	#f27fa5	#f27fa5	0	colored glass odd smooth	
+pink_terracotta	#a24e4f	#a24e4f	9	smooth terracotta tile	
+pink_wool	#ee8dac	#ee8dac	73	colored wool	pink_wool:th
+polished_andesite	#848786	#848786	82	smooth stone	polished_andesite:th
+polished_basalt	#59585c	#636365	93	smooth stone	
+polished_blackstone	#353139	#353139	58	smooth stone	polished_blackstone:thw
+polished_blackstone_bricks	#302b32	#302b32	66	brick smooth stone	polished_blackstone_brick:thw
+polished_cinnabar	#993a37	#993a37	62	colored smooth stone	polished_cinnabar:thw
+polished_deepslate	#484949	#484949	79	deepslate smooth stone	polished_deepslate:thw
+polished_diorite	#c1c1c3	#c1c1c3	132	smooth stone	polished_diorite:th
+polished_granite	#9a6b59	#9a6b59	84	smooth stone	polished_granite:th
+polished_sulfur	#bcaa5b	#bcaa5b	95	smooth stone	polished_sulfur:thw
+polished_tuff	#626864	#626864	49	smooth stone	polished_tuff:thw
+poplar_log	#4f3d2b	#887a6e	33	log wood	
+poplar_planks	#96897f	#96897f	74	plank wood	poplar:th
+potent_sulfur	#d3d161	#d3d161	41	colored stone	
+prismarine	#62a292	#62a292	104	magic rough sea stone	prismarine:thw
+prismarine_bricks	#63ac9e	#63ac9e	86	brick magic sea stone	prismarine_brick:th
+purple_concrete	#64209c	#64209c	3	colored concrete smooth	purple_concrete:th
+purple_concrete_powder	#8438b2	#8438b2	24	colored concrete rough	
+purple_glazed_terracotta	#6e3098	#6e3098	82	colored glazed odd terracotta tile	
+purple_stained_glass	#7f3fb2	#7f3fb2	0	colored glass odd smooth	
+purple_terracotta	#764656	#764656	8	smooth terracotta tile	
+purple_wool	#7a2aad	#7a2aad	40	colored wool	purple_wool:th
+purpur_block	#aa7eaa	#aa7eaa	72	magic odd	purpur:th
+purpur_pillar	#ac82ac	#ac80ab	80	magic odd smooth	
+quartz_block	#ece6df	#ece6df	22	quartz smooth	quartz:th
+quartz_bricks	#ebe5de	#ebe5de	27	brick plaster quartz smooth white	
+quartz_pillar	#ece7e0	#ebe6df	27	plaster quartz smooth white	
+raw_copper_block	#9a6a4f	#9a6a4f	95	metal rough	
+raw_gold_block	#dea92f	#dea92f	154	colored metal rough	
+raw_iron_block	#a6886b	#a6886b	147	metal rough	
+red_concrete	#8e2121	#8e2121	3	colored concrete smooth	red_concrete:th
+red_concrete_powder	#a83633	#a83633	24	colored concrete rough	
+red_glazed_terracotta	#b63c35	#b63c35	100	colored glazed odd rough terracotta tile	
+red_nether_bricks	#460709	#460709	41	brick colored odd	red_nether_brick:thw
+red_poplar_leaves	#9a2c27	#9a2c27	67	colored leaf	
+red_sand	#bf6721	#bf6721	29	colored earth path sand smooth	
+red_sandstone	#bb631d	#b5621f	56	colored sand stone	red_sandstone:thw
+red_stained_glass	#993333	#993333	0	colored glass odd smooth	
+red_terracotta	#8f3d2f	#8f3d2f	8	colored smooth terracotta tile	
+red_wool	#a12723	#a12723	25	colored smooth wool	red_wool:th
+redstone_block	#b01905	#b01905	56	colored odd precious	
+resin_block	#d96319	#d96319	104	colored odd rough	
+resin_bricks	#ce5818	#ce5818	112	brick colored odd rough	resin_brick:thw
+rooted_dirt	#90684d	#90684d	102	earth rough	
+sand	#dbcfa3	#dbcfa3	38	earth path sand smooth	
+sandstone	#d8cb9c	#e0d6aa	69	sand stone	sandstone:thw
+sea_lantern	#acc8bf	#acc8bf	178	light magic rough	
+shroomlight	#f19347	#f19347	166	colored light rough	
+smooth_basalt	#49484e	#49484e	66	smooth stone	
+smooth_quartz	#ede6e0	#ede6e0	12	quartz smooth	smooth_quartz:th
+smooth_red_sandstone	#b5621f	#b5621f	23	colored sand smooth stone	smooth_red_sandstone:th
+smooth_sandstone	#e0d6aa	#e0d6aa	23	colored sand smooth stone	smooth_sandstone:th
+smooth_stone	#9f9f9f	#9f9f9f	71	smooth stone	smooth_stone:h
+soul_soil	#4c3a2f	#4c3a2f	51	odd	
+spruce_leaves	#2f4b2f	#2f4b2f	70	conifer leaf	
+spruce_log	#3b2611	#6d502f	38	log wood	
+spruce_planks	#735531	#735531	56	plank wood	spruce:th
+stone	#7e7e7e	#7e7e7e	42	stone	stone:th
+stone_bricks	#7a7a7a	#7a7a7a	73	brick stone	stone_brick:thw
+stripped_acacia_log	#af5d3c	#a65b34	19	log smooth wood	
+stripped_bamboo_block	#c1ad50	#b29f49	98	log smooth wood	
+stripped_birch_log	#c5b076	#bfac74	43	log smooth wood	
+stripped_cherry_log	#d79195	#dda59e	27	log magic smooth wood	
+stripped_crimson_stem	#89395a	#7a3853	24	log odd smooth wood	
+stripped_dark_oak_log	#493924	#422c17	19	log smooth wood	
+stripped_jungle_log	#ab8555	#a67b52	31	log smooth wood	
+stripped_mangrove_log	#783630	#6d2c2b	19	log smooth wood	
+stripped_oak_log	#b19056	#a0824d	48	log smooth wood	
+stripped_pale_oak_log	#f6eeed	#ebe3e2	35	log smooth wood	
+stripped_poplar_log	#a5998c	#988b81	19	log smooth wood	
+stripped_spruce_log	#745a34	#715732	24	log smooth wood	
+stripped_warped_stem	#3a9794	#34817c	36	log odd smooth wood	
+sulfur	#beaf66	#beaf66	56	stone	sulfur:thw
+sulfur_bricks	#bba85b	#bba85b	107	brick rough stone	sulfur_brick:thw
+terracotta	#985e44	#985e44	6	smooth terracotta tile	
+tinted_glass	#2f2234	#2f2234	22	glass odd smooth	
+tube_coral_block	#3157cf	#3157cf	76	colored odd	
+tuff	#6c6d67	#6c6d67	80	stone	tuff:thw
+tuff_bricks	#62675f	#62675f	84	brick stone	tuff_brick:thw
+verdant_froglight	#d3ebd0	#e5f4e4	103	light magic rough	
+warped_nylium	#493e3c	#2b7265	103	odd rough	
+warped_planks	#2b6963	#2b6963	98	odd plank wood	warped:th
+warped_stem	#3a3b4e	#356e6e	76	log odd wood	
+warped_wart_block	#177879	#177879	52	colored odd	
+weathered_chiseled_copper	#69976f	#69976f	90	metal smooth	
+weathered_copper	#6c996e	#6c996e	65	metal	
+weathered_cut_copper	#6d916c	#6d916c	75	metal	weathered_cut_copper:th
+white_concrete	#cfd5d6	#cfd5d6	3	concrete plaster smooth white	white_concrete:th
+white_concrete_powder	#e2e3e4	#e2e3e4	32	concrete plaster rough white	
+white_glazed_terracotta	#bcd4cb	#bcd4cb	207	glazed odd rough terracotta tile	
+white_stained_glass	#ffffff	#ffffff	0	glass odd smooth white	
+white_terracotta	#d2b2a1	#d2b2a1	9	smooth terracotta tile	
+white_wool	#eaeced	#eaeced	49	white wool	white_wool:th
+yellow_concrete	#f1af15	#f1af15	4	colored concrete smooth	yellow_concrete:th
+yellow_concrete_powder	#e9c737	#e9c737	34	colored concrete rough	
+yellow_glazed_terracotta	#eac059	#eac059	157	colored glazed odd rough terracotta tile	
+yellow_poplar_leaves	#d78628	#d78628	144	colored leaf rough	
+yellow_stained_glass	#e5e533	#e5e533	0	colored glass odd smooth	
+yellow_terracotta	#ba8523	#ba8523	9	colored smooth terracotta tile	
+yellow_wool	#f9c628	#f9c628	40	colored wool	yellow_wool:th
